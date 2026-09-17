@@ -356,54 +356,6 @@ These boundaries are part of the CDUI design, not optional additions around it.
 
 ---
 
-## 🔍 Technical Discovery and Search Terminology
-
-The following terms describe overlapping aspects of this project and are used deliberately for technical discovery:
-
-- Conversational Driven User Interface
-- Conversational Driven UI
-- CDUI Runtime
-- CDUI architecture
-- conversational UI generation
-- conversationally generated UI
-- runtime-generated user interface
-- LLM-generated UI
-- LLM-driven interface
-- intent-driven user interface
-- generative user interface
-- adaptive user interface
-- runtime UI composition
-- schema-constrained UI generation
-- `ScreenDescription`
-- conversational frontend architecture
-- human-computer interaction
-
-**Conversational Driven User Interface (CDUI)** remains the canonical name.
-
-### Suggested GitHub Repository Description
-
-> Conversational Driven User Interface (CDUI) Runtime — an experimental architecture for LLM-driven, intent-based runtime generation and mutation of graphical user interfaces.
-
-### Suggested GitHub Topics
-
-```text
-conversational-ui
-cdui
-generative-ui
-llm-ui
-dynamic-ui
-adaptive-ui
-intent-driven-ui
-runtime-ui
-schema-driven-ui
-react
-typescript
-human-computer-interaction
-ui-architecture
-```
-
----
-
 ## ⚠️ Intellectual Property and Licence Notice
 
 Copyright © 2026 Admir Sabanovic. All rights reserved.
@@ -421,31 +373,6 @@ The repository may be made available for peer evaluation, technical review, and 
 No part of the source code or other copyright-protected repository material may be copied, modified, redistributed, sublicensed, sold, or incorporated into another work without prior explicit written permission from the author, except where applicable law independently permits otherwise.
 
 This README documents the project's authorship, terminology, architecture, and development timeline. It is not itself a patent, trademark registration, or substitute for any formal intellectual-property registration.
-
-See [`LICENSE`](./LICENSE) for the complete governing terms when that file is included in the repository.
-
-### Proprietary Source Header
-
-The following notice may be placed at the top of source files:
-
-```ts
-/**
- * Copyright © 2026 Admir Sabanovic. All rights reserved.
- *
- * PROJECT: Conversational Driven User Interface (CDUI) Runtime
- * AUTHOR: Admir Sabanovic (GitHub: @AdmireSwe)
- *
- * INTELLECTUAL PROPERTY NOTICE:
- * This source code and its implementation are proprietary to Admir Sabanovic.
- * This software is not open source.
- *
- * Copying, modification, redistribution, sublicensing, commercial use, or
- * creation of derivative works is prohibited without the author's prior
- * written permission, except where applicable law independently permits it.
- *
- * Provided exclusively for peer evaluation, review, and inspiration.
- */
-```
 
 ---
 
