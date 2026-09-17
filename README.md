@@ -2,7 +2,7 @@
 
 **Status:** Work in progress  
 **Author:** Admir Sabanovic  
-**Repository:** `cdui-runtime`,
+**Repository:** `conversational-portfolio`  
 **Project:** CDUI Runtime Prototype  
 **Licence:** Private intellectual property — not open source
 
